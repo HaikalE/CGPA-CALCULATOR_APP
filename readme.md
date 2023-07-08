@@ -22,6 +22,7 @@ Secure Data Storage: The app prioritizes data security and confidentiality. Stud
 Screenshots:
 
 Home Screen: The home screen of the CGPA Mobile App displays the current semester's CGPA and GPA, along with a summary of the overall CGPA. It provides quick access to other features such as grade calculation, course management, and goal setting.
+
 <img src="screenshoot/home_screen.png" alt="Alt Text" width="300px" >
 
 
@@ -30,7 +31,9 @@ Grade Calculation: This screen allows students to input their course grades and 
 <img src="screenshoot/calculating_screen.png" alt="Alt Text" width="300px" >
 
 Semester Overview: This screen provides a comprehensive overview of each semester's GPA and CGPA. It displays a list of courses taken in the semester, their grades, and credit hours. Students can navigate through different semesters to track their progress.
+
 <img src="screenshoot/enroll_course.png" alt="Alt Text" width="300px" >
 
 Course Management: The course management screen allows students to add, edit, and delete courses. They can input the course name, credit hours, and grade. The screen may also provide an option to view detailed information about each course.
+
 <img src="screenshoot/course_management.png" alt="Alt Text" width="300px" >
