@@ -26,6 +26,7 @@ Home Screen: The home screen of the CGPA Mobile App displays the current semeste
 
 
 Grade Calculation: This screen allows students to input their course grades and credit hours, and it automatically calculates the CGPA based on the entered information. The screen may also display the predictive CGPA based on the current grades and allow adjustments to see potential outcomes.
+
 <img src="screenshoot/calculating_screen.png" alt="Alt Text" width="300px" >
 
 Semester Overview: This screen provides a comprehensive overview of each semester's GPA and CGPA. It displays a list of courses taken in the semester, their grades, and credit hours. Students can navigate through different semesters to track their progress.
