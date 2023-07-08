@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.projectkelbaru1.ui.home.HomeFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="com.example.projectkelbaru1.ui.notifications.NotificationsFragment"
+        android:label="@string/title_notifications"
+        tools:layout="@layout/fragment_notifications" />
+
+    <fragment
+        android:id="@+id/course_registered"
+        android:name="com.example.projectkelbaru1.course_registered"
+        android:label="@string/title_course_registered"
+        tools:layout="@layout/course_registered" />
+    <fragment
+        android:id="@+id/course_grade"
+        android:name="com.example.projectkelbaru1.course_grade"
+        android:label="Course Grade"
+        tools:layout="@layout/fragment_course_grade" />
+    <fragment
+        android:id="@+id/course_information"
+        android:name="com.example.projectkelbaru1.course_information"
+        android:label="@string/title_course_information"
+        tools:layout="@layout/fragment_course_information" />
+    <fragment
+        android:id="@+id/login_fragment"
+        android:name="com.example.projectkelbaru1.LoginFragment"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/signup_fragment"
+        android:name="com.example.projectkelbaru1.SignupFragment"
+        tools:layout="@layout/fragment_signup" />
+    <fragment
+        android:id="@+id/course_enrol"
+        android:name="com.example.projectkelbaru1.EnrolledCourseFragment"
+        tools:layout="@layout/fragment_enrolled_course"
+        android:label="Enrolled Course"/>
+    <fragment
+        android:id="@+id/delete_course"
+        android:name="com.example.projectkelbaru1.DeleteCourseFragment"
+        tools:layout="@layout/fragment_delete_course"
+        android:label="Delete Course"/>
+</navigation>
