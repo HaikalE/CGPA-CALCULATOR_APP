@@ -22,7 +22,7 @@ Secure Data Storage: The app prioritizes data security and confidentiality. Stud
 Screenshots:
 
 Home Screen: The home screen of the CGPA Mobile App displays the current semester's CGPA and GPA, along with a summary of the overall CGPA. It provides quick access to other features such as grade calculation, course management, and goal setting.
-[Insert screenshot of the home screen here]
+![Alt Text](screenshoot/home_screen.png)
 
 Grade Calculation: This screen allows students to input their course grades and credit hours, and it automatically calculates the CGPA based on the entered information. The screen may also display the predictive CGPA based on the current grades and allow adjustments to see potential outcomes.
 [Insert screenshot of the grade calculation screen here]
